@@ -2,10 +2,12 @@
     •  Ensure that an app service WebApp01 can only receive traffic from a specific application gateway instance AppGw01
     •  Allow HTTPS over TCP port 443 to Web01 and to prevent HTTP over TCP port 80 to Web01. 
 
-![resources](https://github.com/ivnovyuriy/task-azure-42/blob/abbdf058b0d51c60b47819bb69c354c4c1e62574/screenshots/resources.png)
+![resources](https://github.com/ivnovyuriy/task-azure-43/blob/15487a02eb03303fc7df543a52670e4b008f6ad6/img/resources.png)
 
-![deny](https://github.com/ivnovyuriy/task-azure-42/blob/abbdf058b0d51c60b47819bb69c354c4c1e62574/screenshots/deny.png)
+![deny](https://github.com/ivnovyuriy/task-azure-43/blob/15487a02eb03303fc7df543a52670e4b008f6ad6/img/deny.png)
 
 3. ** You need to automate previous tasks utilising IaaC tools of your choice (For e.g. Terraform).
 
-![infra](https://github.com/ivnovyuriy/task-azure-42/blob/abbdf058b0d51c60b47819bb69c354c4c1e62574/screenshots/output.png)
+![infra](https://github.com/ivnovyuriy/task-azure-43/blob/15487a02eb03303fc7df543a52670e4b008f6ad6/img/infra.png)
+
+![output](https://github.com/ivnovyuriy/task-azure-43/blob/15487a02eb03303fc7df543a52670e4b008f6ad6/img/output.png)
